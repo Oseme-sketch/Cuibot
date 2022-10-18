@@ -10,4 +10,4 @@ Cuibot is a chatbot that provides basic information on
 - Android
 
 ## Screenshots
-<img src="assets/images/CuibotDefinition.png"  width=50% height=50%>
+<img src="assets/images/CuibotDefinition.png"  width=25% height=25%>
